@@ -1,0 +1,35 @@
+.SearchContainer h1 {
+    /* transform: translate(10%, 50%); */
+    text-align: center;
+
+  }
+  .SearchName {
+    display: flex;
+  }
+  .SearchInput {
+    transform: translate(120%, 50%);
+    width: 350px;
+    padding: 1rem;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    outline: none;
+  }
+  .SearchMain {
+    transform: translate(80%, 6%);
+    padding: 1rem;
+    margin-bottom: 1rem;
+    width: 350px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    height: 450px;
+  }
+  .SearchMain p {
+    padding: 1rem 0;
+  }
+  .userName {
+    /* margin-top: -3 rem; */
+    background-color: whitesmoke;
+    width: 120px;
+    padding: 0rem 1rem;
+    border: 1px solid lightgray;
+  }
